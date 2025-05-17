@@ -7,3 +7,4 @@ features in this program:
 - And a function to extract .xml outputs file, forgot to mention all outputs will be .XML.
 - You can use LLM to further analyze like I talk above.
 - In short, I spend to much time design the UI, that why html is 50% of the project.
+- Remember to add username and password for your mysql server also API key for your LLMs.
